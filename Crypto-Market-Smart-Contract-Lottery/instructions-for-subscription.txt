@@ -1,0 +1,5 @@
+1- Get our SubId for CL VRF & Fund
+2- Deploy our contract using SubId
+3- Register the contract with CL VRF & it's subId
+4- Register the contract with CL Keepers
+5- Run staging tests
