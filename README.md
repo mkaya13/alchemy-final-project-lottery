@@ -78,6 +78,8 @@ Go inside the hardhat directory
 
 - `cd Crypto-Market-Smart-Contract-Lottery`
 
+- `npm install`
+
 ## Env Variable
 
 Create a .env and fill following metrics:
