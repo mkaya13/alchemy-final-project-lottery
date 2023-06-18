@@ -1,0 +1,15 @@
+nav ul {
+    display: flex;
+    flex-direction: row;
+    gap: 2.5rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+nav ul li {
+    display: flex;
+    border: 1px solid;
+    padding: 0.25rem 0.5rem 0.25rem 0.5rem;
+}
